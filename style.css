@@ -1,0 +1,33 @@
+.container {
+  align-items: center;
+  background-color: black;
+  color: white;
+  bottom: 0;
+  display: flex;
+  flex-direction: column;
+  font-family: "Source Code Pro", monospace;
+  left: 0;
+  padding: 30px;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+a {
+  color: lime;
+}
+
+.row {
+  align-items: center;
+  border-left: 1px solid white;
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+  width: 75%;
+}
+
+.photo {
+  border-radius: 50%;
+  height: 250px;
+  width: 250px;
+}
