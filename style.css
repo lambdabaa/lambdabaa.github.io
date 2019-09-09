@@ -55,6 +55,10 @@ a {
 }
 
 .row:nth-child(6) {
+  border-left: 1px solid indigo !important;
+}
+
+.row:nth-child(7) {
   border-left: 1px solid violet !important;
 }
 
