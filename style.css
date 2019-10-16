@@ -21,10 +21,6 @@ body {
   width: calc(100% - 60px);
 }
 
-a {
-  color: lime;
-}
-
 .row {
   align-items: center;
   border-left: 1px solid white;
