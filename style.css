@@ -63,3 +63,11 @@ body {
   height: 250px;
   width: 250px;
 }
+
+a {
+  color: white;
+}
+
+a:hover {
+  color: blue;
+}
