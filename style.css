@@ -59,6 +59,9 @@ body {
 }
 
 .photo {
+  background-image: url("photo.jpg");
+  background-position: top;
+  background-size: cover;
   border-radius: 50%;
   height: 250px;
   width: 250px;
