@@ -59,9 +59,11 @@ body {
 }
 
 .photo {
+  background-color: white;
   background-image: url("photo.jpg");
   background-position: top;
-  background-size: cover;
+  background-repeat: no-repeat;
+  background-size: contain;
   border-radius: 50%;
   height: 250px;
   width: 250px;
