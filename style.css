@@ -59,14 +59,12 @@ body {
 }
 
 .photo {
-  background-color: white;
   background-image: url("photo.jpg");
-  background-position: top;
+  background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
-  border-radius: 50%;
-  height: 250px;
-  width: 250px;
+  height: 213px;
+  width: 296px;
 }
 
 a, table {
