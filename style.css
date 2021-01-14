@@ -14,7 +14,6 @@ body {
   display: flex;
   flex-direction: column;
   font-family: "Source Code Pro", monospace;
-  height: calc(100% - 60px);
   left: 0;
   padding: 30px;
   top: 0;
