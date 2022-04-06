@@ -8,6 +8,10 @@ body {
   height: 100%;
 }
 
+ul {
+  list-style-type: square;
+}
+
 .container {
   align-items: center;
   color: white;
@@ -25,7 +29,6 @@ body {
   border-left: 1px solid white;
   display: flex;
   justify-content: space-between;
-  list-style-type: square;
   margin-bottom: 15px;
   padding-left: 15px;
   width: 75%;
