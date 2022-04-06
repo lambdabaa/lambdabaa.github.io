@@ -89,8 +89,16 @@ td, th {
   border-right: 1px solid white;
 }
 
-td:first-child, th:first-child {
-  border-left: 1px solid white;
+td:last-child, th:last-child {
+  border-right: none !important;
+}
+
+tr:last-child > td {
+  border-bottom: none !important;
+}
+
+th {
+  border-top: none !important;
 }
 
 th {
