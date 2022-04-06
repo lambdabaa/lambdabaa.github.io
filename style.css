@@ -29,31 +29,27 @@ body {
   width: 75%;
 }
 
-.row:first-child {
+.row:first-child, .row:nth-child(7) {
   border-left: 1px solid red !important;
 }
 
-.row:nth-child(2) {
+.row:nth-child(2), .row:nth-child(8) {
   border-left: 1px solid orange !important;
 }
 
-.row:nth-child(3) {
+.row:nth-child(3), .row:nth-child(9) {
   border-left: 1px solid yellow !important;
 }
 
-.row:nth-child(4) {
+.row:nth-child(4), .row:nth-child(10) {
   border-left: 1px solid green !important;
 }
 
-.row:nth-child(5) {
+.row:nth-child(5), .row:nth-child(11) {
   border-left: 1px solid blue !important;
 }
 
-.row:nth-child(6) {
-  border-left: 1px solid indigo !important;
-}
-
-.row:nth-child(7) {
+.row:nth-child(6), .row:nth-child(12) {
   border-left: 1px solid violet !important;
 }
 
