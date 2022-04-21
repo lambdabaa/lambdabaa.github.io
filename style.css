@@ -15,7 +15,7 @@ ul {
   align-items: center;
   display: flex;
   flex-direction: column;
-  font-family: "Source Code Pro", monospace;
+  font-family: system-ui;
   left: 0;
   padding: 30px;
   top: 0;
