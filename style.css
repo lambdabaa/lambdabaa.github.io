@@ -1,5 +1,4 @@
 body {
-  background-color: rgba(0,0,0,0.9);
   margin: 0;
 }
 
@@ -14,7 +13,6 @@ ul {
 
 .container {
   align-items: center;
-  color: white;
   display: flex;
   flex-direction: column;
   font-family: "Source Code Pro", monospace;
@@ -26,7 +24,7 @@ ul {
 
 .row {
   align-items: center;
-  border-left: 1px solid white;
+  border-left: 1px solid black;
   display: flex;
   justify-content: space-between;
   margin-bottom: 15px;
@@ -67,10 +65,6 @@ ul {
   width: 296px;
 }
 
-a, table {
-  color: white;
-}
-
 a:hover {
   color: blue;
 }
@@ -86,8 +80,8 @@ td, th {
 }
 
 td, th {
-  border-bottom: 1px solid white;
-  border-right: 1px solid white;
+  border-bottom: 1px solid black;
+  border-right: 1px solid black;
 }
 
 td:last-child, th:last-child {
@@ -103,5 +97,5 @@ th {
 }
 
 th {
-  border-top: 1px solid white;
+  border-top: 1px solid black;
 }
