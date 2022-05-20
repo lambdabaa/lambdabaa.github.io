@@ -41,3 +41,7 @@
     background-size: contain;
   }
 }
+
+.tooltip {
+  text-align: left;
+}
